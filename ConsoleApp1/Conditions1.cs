@@ -3,7 +3,7 @@ using System.Security.Cryptography.X509Certificates;
 
 namespace ConsoleApp1;
 
-public class Conditions
+public class Conditions1
 {
     bool isEqual = true;
     int a = 10;
