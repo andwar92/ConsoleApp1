@@ -4,8 +4,8 @@ using System.Diagnostics.CodeAnalysis;
 using ConsoleApp1;
 
 
-var condition3 = new Condition3();
-condition3.Run();
+var switch1 = new Switch1();
+switch1.Run();
 //var returnSum = new ReturnSum();
 //returnSum.Run();
 //Console.WriteLine(returnSum.name);
